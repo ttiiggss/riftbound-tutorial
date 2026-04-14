@@ -33,7 +33,7 @@ document.querySelector('#app').innerHTML = `
         </a>
       </li>
       <li>
-        <a href="https://develope.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
           <img class="button-icon" src="${javascriptLogo}" alt="">
           Learn more
         </a>
